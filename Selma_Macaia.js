@@ -134,4 +134,4 @@ function calculaMedia(notas) {
 console.log(calculaMedia([8, 7, 6]));
 console.log(calculaMedia([5, 6, 4]));
 
-console.log('\n---------------------------- Fim\n');
+console.log('\n---------------------------- Fim do desafio\n');
